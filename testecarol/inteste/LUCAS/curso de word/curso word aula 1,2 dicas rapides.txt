@@ -1,0 +1,72 @@
+windows curso 
+
+1ºaula
+
+-descontraçao
+
+2ºaula
+
+10 DICAS PARA WORD 
+
+1º dica
+- =rand(paragrados,frases) enter 
+ 
+deixa o texto organizado 
+
+
+=lorem(paragrafo,frases) enter
+
+texto estilo designer
+
+2º dica
+
+- ctrl[ (aumenta a letra)
+-ctrl] (diminui a letra)
+ 
+3º dica 
+
+limpar a formataçao do texto 
+
+ctrl + espaço
+
+4º dica
+
+apagar a frase toda 
+
+ctrl + backspace
+
+5º dica 
+
+guardar frases e depois conseguir colar ela
+
+ctrl +
+
+depois e so acessar "pagina inicial clicar em area de tranferencia"
+
+6º dica
+
+criar frases
+
+"c" "r"
+
+7º dica
+
+criar tabela
+
++"tecla tab....
+
+8º dica
+ criar formulas
+
+clicar em inserir depois equaçao e depois equaçao a tinta
+
+9ºdica 
+ pesquisa inteligente 
+
+clicar com o botao direito na palavra e clicar em pesquisa inteligente
+
+10º dica
+
+traduzir 
+
+selecionar o texto e parar o mouse em cima

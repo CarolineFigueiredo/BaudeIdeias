@@ -1,0 +1,11 @@
+curso word 06 digitaçao e formataçao basica
+
+dedo indicador no "f,j"
+
+clicar duas vezes que seleciona 
+ caso tenha uma imagem clicar em alt
+  
+pra deixar uma frase subscrito ou sobescrito,basta usar "ctrl,,+\+"
+ou "ctrl,shift\- "
+
+
